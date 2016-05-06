@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Email Validation Code Eval\Email Validation Code Eval\bin\Debug\Email Validation Code Eval.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Email Validation Code Eval\Email Validation Code Eval\bin\Debug\Email Validation Code Eval.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Email Validation Code Eval\Email Validation Code Eval\bin\Debug\Email Validation Code Eval.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Email Validation Code Eval\Email Validation Code Eval\obj\Debug\Email Validation Code Eval.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Email Validation Code Eval\Email Validation Code Eval\obj\Debug\Email Validation Code Eval.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Email Validation Code Eval\Email Validation Code Eval\obj\Debug\Email Validation Code Eval.pdb
